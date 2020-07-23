@@ -20,5 +20,6 @@ Qiitaの記事にドンピシャなものがあったので、よくもわるく
 ##cf
 
 [PythonでMP3音源を再生する](https://qiita.com/kekeho/items/a0b93695d8a8ac6f1028)  
+http://westplain.sakuraweb.com/translate/pygame/Music.cgi
 
 音楽：魔王魂

@@ -18,7 +18,7 @@ Qiitaの記事にドンピシャなものがあったので、よくもわるく
 最終的にはGUIアプリケーションにしたり、他の人が使えるようなデスクトップアプリケーション？としてリリースしてみたい。  
 車輪の再開発な気もするが需要はあると思うので・・
 
-##cf
+## cf
 
 [PythonでMP3音源を再生する](https://qiita.com/kekeho/items/a0b93695d8a8ac6f1028)  
 Pygameドキュメント:http://westplain.sakuraweb.com/translate/pygame/Music.cgi

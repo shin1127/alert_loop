@@ -3,7 +3,10 @@ import pygame
 import time
 
 filename = 'se_maoudamashii_onepoint26.mp3'  # 再生したいmp3ファイル
-interval_time = 5  # 再生間隔を秒数で指定する
+interval_time = 0  # 再生間隔を秒数で指定する
+
+interval_time = int(input("アラーム間隔を秒数で設定せよ >>"))
+print("開始　終了したいときはCtrl+C")
 
 
 pygame.mixer.init()

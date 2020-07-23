@@ -6,6 +6,9 @@ filename = 'se_maoudamashii_onepoint26.mp3'  # 再生したいmp3ファイル
 pygame.mixer.init()
 pygame.mixer.music.load(filename)  # 音源を読み込み
 mp3_length = mp3(filename).info.length  # 音源の長さ取得
-pygame.mixer.music.play(1)  # 。1の部分を変えるとn回再生(その場合は次の行の秒数も×nすること)
-time.sleep(mp3_length + 0.25)  # 再生開始後、音源の長さだけ待つ(0.25待つのは誤差解消)
+
+while True:
+    pygame.mixer.music.play(1)
+    time.sleep(30)
+
 pygame.mixer.music.stop()  # 音源の長さ待ったら再生停止

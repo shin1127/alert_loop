@@ -11,6 +11,7 @@
 ## Qiita / Output
 
 - [pygameでn秒おきに音が鳴るタイマーを実装する](https://qiita.com/cordy/items/ae6ac29b502e27000cef)
+- [pygameでタイマー機能を実装する](https://qiita.com/cordy/items/49dd94762ade8d5d34ad)
 
 ## Issue
 
